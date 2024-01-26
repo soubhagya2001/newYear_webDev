@@ -2,7 +2,6 @@ function init() {
   var svg = document.querySelector(".scene");
   var zoom = false;
   var animationOn = false;
-
   var viewBoxes = {
     "overHouses": {
       x: 43,
